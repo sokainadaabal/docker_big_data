@@ -1,7 +1,4 @@
----
-title: 'Big Data Docker Project '
-disqus: hackmd
----
+
 
 Big Data Docker  
 ===
